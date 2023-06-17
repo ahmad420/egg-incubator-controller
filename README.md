@@ -1,6 +1,6 @@
 # Egg Incubator Controller
 
-![Egg Incubator](https://example.com/egg-incubator-image.jpg)
+![Egg Incubator](./readme-images/eg.png)
 
 This repository contains the code and resources for an egg incubator controller. The controller is designed to provide a controlled environment for incubating eggs, simulating the necessary temperature, humidity, and other conditions required for successful hatching.
 
